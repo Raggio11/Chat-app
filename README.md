@@ -10,3 +10,23 @@ Features -
 
 
 Screenshots - 
+
+
+
+Setup - 
+You will need:
+Node.js
+Expo
+Sign up for an Expo account HERE
+Install the Expo Command Line Interface with $ npm install expo-cli --global
+Download the Expo app on your smartphone and sign in
+Simulator/Emulator
+Android Studio
+iOS Simulator
+Configured Firebase database
+Then:
+Clone the repository
+Integrate your own Firebase configuration in Chat.js (lines 31-37)
+Install dependencies
+$ npm install
+Start the app with $ npm start or $ expo start
