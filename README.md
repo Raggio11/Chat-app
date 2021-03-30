@@ -26,7 +26,7 @@ iOS Simulator
 Configured Firebase database
 Then:
 Clone the repository
-Integrate your own Firebase configuration in Chat.js (lines 31-37)
+Integrate your own Firebase configuration in Chat.js
 Install dependencies
 $ npm install
 Start the app with $ npm start or $ expo start
