@@ -11,10 +11,8 @@ Features -
 
 
 Screenshots - 
-![Screenshot 1](https://user-images.githubusercontent.com/70227483/113066667-294dce00-9178-11eb-8b34-5c284303f817.png)
-![2](https://user-images.githubusercontent.com/70227483/113066649-20f59300-9178-11eb-89a9-0b26a95085b2.png)
-![3](https://user-images.githubusercontent.com/70227483/113066653-23f08380-9178-11eb-99f3-755165f35148.png)
-![4](https://user-images.githubusercontent.com/70227483/113066657-2652dd80-9178-11eb-93f8-dd69cb4c729a.png)
+![2 sma'](https://user-images.githubusercontent.com/70227483/113066937-a8430680-9178-11eb-85cb-1e808bd677de.png)
+
 
 
 Setup - 
