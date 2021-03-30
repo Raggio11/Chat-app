@@ -1,3 +1,4 @@
+
 Description - 
 This is a basic messeging app made for mobile phones, The application was developed using React Native with Google Firebase. Functions include sending messages, images, and location.
 
@@ -10,7 +11,10 @@ Features -
 
 
 Screenshots - 
-
+![Screenshot 1](https://user-images.githubusercontent.com/70227483/113066667-294dce00-9178-11eb-8b34-5c284303f817.png)
+![2](https://user-images.githubusercontent.com/70227483/113066649-20f59300-9178-11eb-89a9-0b26a95085b2.png)
+![3](https://user-images.githubusercontent.com/70227483/113066653-23f08380-9178-11eb-99f3-755165f35148.png)
+![4](https://user-images.githubusercontent.com/70227483/113066657-2652dd80-9178-11eb-93f8-dd69cb4c729a.png)
 
 
 Setup - 
